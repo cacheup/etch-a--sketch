@@ -4,6 +4,7 @@
   width: 650px;
   display: flex;
   flex-wrap: wrap;
+  margin: 0px auto;
 }
 
 body {
@@ -16,5 +17,5 @@ body {
 }
 
 button {
-  font-size:medium;
+  font-size: medium;
 }
